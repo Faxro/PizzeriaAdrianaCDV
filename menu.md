@@ -66,7 +66,7 @@
 
 ## Napoje
 
-
+<img src ="IMG/IMG/melissa-walker-horn-gtDYwUIr9Vg-unsplash.jpg" width = 400 height = 350>
 
 |Lp. |Nazwa:                                               |wielkość:| 330 ml| 500 ml| 
 |----|-----------------------------------------------------|---------|-------|-------|
