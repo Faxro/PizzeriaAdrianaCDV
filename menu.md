@@ -24,7 +24,7 @@
 
 <img src ="IMG/IMG/dennis-klein-FzB_512zvP0-unsplash.jpg" width = 400 height = 350>
 
-|Lp. |Nazwa:                        | cena: | 
+|Lp. |Nazwa:                        | cena:| 
 |----|------------------------------|------|
 |1.  |Pomidorowy                    | 4 zł |
 |2.  |Czosnkowy                     | 5 zł |
@@ -43,6 +43,13 @@
 |4.  |Lasagne                                              |         | 35 zł | 43zł  |
 
 ## Dodatki
+
+|Lp. |Nazwa:                        | cena:| 
+|----|------------------------------|------|
+|1.  |Frytki                        | 10 zł|
+|2.  |Rukola                        | 5 zł |
+|3.  |Ziemniaczki                   | 12 zł|
+|4.  |Ogórki                        | 7 zł |
 
 ## Desery
 
