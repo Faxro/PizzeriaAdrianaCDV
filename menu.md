@@ -7,7 +7,7 @@
 
 |Lp.|Pizza:                                               |rozmiar: | 30 cm | 50 cm | 60 cm |
 |---|-----------------------------------------------------|---------|-------|-------|-------|
-|1.  |MARGHERITA (sos pomidorowy, ser, oregano)           |         |20 zł  | 40 zł | 50 zł |
+|1.  |MARGHERITA (sos pomidorowy, ser, oregano)           |         |20 zł  | 41 zł | 50 zł |
 |2.  |FUNGHI (sos pomidorowy, ser, pieczarki)             |         |24 zł  | 44 zł | 54 zł |
 |3.  |SALAMI (sos pomidorowy, ser mozarella, salami)      |         |25 zł  | 45 zł | 55 zł |
 |4.  |HAWAJSKA (sos pomidororwy, ser, szynka, ananas)     |         |26 zł  | 46zł  | 56 zł |
