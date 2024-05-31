@@ -17,3 +17,16 @@
 |8.  |Jalapenio (sos pomidororwy, jalapenio, szynka, ser) |         |28 zł  | 48 zł | 58 zł |
 |9.  |4 Sery (mozzarela, gouda, pleśniowy, edamski)       |         |29 zł  | 49 zł | 59 zł |
 |10. |Szefa (sos pomidororwy, ser, salami, szynka)        |         |30 zł  | 50 zł | 60 zł |
+
+
+
+## Sosy
+
+
+## Makarony
+
+## Dodatki
+
+## Desery
+
+## Napoje
