@@ -22,6 +22,8 @@
 
 ## Sosy
 
+<img src ="IMG/IMG/dennis-klein-FzB_512zvP0-unsplash.jpg" width = 500 height = 500>
+
 |Lp. |Nazwa:                        | cena: | 
 |----|------------------------------|------|
 |1.  |Pomidorowy                    | 4 zł |
