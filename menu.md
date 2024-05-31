@@ -3,7 +3,7 @@
 ## Pizze klasyczne
 
 
-<img src = "IMG/shayan-ramesht-exSEmuA7R7k-unsplash.jpg" width = 500 height = 500>
+<img src = "IMG/shayan-ramesht-exSEmuA7R7k-unsplash.jpg" width = 400 height = 350>
 
 |Lp.|Pizza:                                               |rozmiar: | 30 cm | 50 cm | 60 cm |
 |---|-----------------------------------------------------|---------|-------|-------|-------|
@@ -22,7 +22,7 @@
 
 ## Sosy
 
-<img src ="IMG/IMG/dennis-klein-FzB_512zvP0-unsplash.jpg" width = 500 height = 500>
+<img src ="IMG/IMG/dennis-klein-FzB_512zvP0-unsplash.jpg" width = 400 height = 350>
 
 |Lp. |Nazwa:                        | cena: | 
 |----|------------------------------|------|
@@ -33,7 +33,7 @@
 
 ## Makarony
 
-<img src ="IMG/IMG/karolina-kolodziejczak-gRtIRzDNZQI-unsplash.jpg" width = 500 height = 500>
+<img src ="IMG/IMG/karolina-kolodziejczak-gRtIRzDNZQI-unsplash.jpg" width = 400 height = 350>
 
 |Lp. |Nazwa:                                               |porcja:  | 500 g | 700 g | 
 |----|-----------------------------------------------------|---------|-------|-------|
