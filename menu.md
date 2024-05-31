@@ -44,6 +44,8 @@
 
 ## Dodatki
 
+<img src ="IMG/IMG/mitchell-luo-ChXHveqrb28-unsplash.jpg" width = 400 height = 350>
+
 |Lp. |Nazwa:                        | cena:| 
 |----|------------------------------|------|
 |1.  |Frytki                        | 10 zł|
