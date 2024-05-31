@@ -55,4 +55,11 @@
 
 ## Desery
 
+|Lp. |Nazwa:                               | cena:| 
+|----|-------------------------------------|------|
+|1.  |Shake Czekoladowy/truskawkowy        | 10 zł|
+|2.  |Lody waniliowe z orzechami           | 15 zł|
+|3.  |Tiramisu                             | 14 zł|
+|4.  |Jabłecznik z lodami i bitą śmietaną  | 18 zł|
+
 ## Napoje
