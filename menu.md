@@ -22,6 +22,12 @@
 
 ## Sosy
 
+|Lp. |Nazwa:                        | cena: | 
+|----|------------------------------|------|
+|1.  |Pomidorowy                    | 4 zł |
+|2.  |Czosnkowy                     | 5 zł |
+|3.  |Ostry                         | 4 zł |
+|4.  |1000 wysp                     | 4 zł |
 
 ## Makarony
 
