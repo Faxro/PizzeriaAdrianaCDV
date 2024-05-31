@@ -2,7 +2,7 @@
 
 ## Adres mailowy
 
-Pizzeriaadriana@cdv.pl
+Pizzeriadriana@cdv.pl
 
 ## Telefon kontaktowy
 
