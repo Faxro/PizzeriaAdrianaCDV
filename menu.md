@@ -25,6 +25,15 @@
 
 ## Makarony
 
+<img src ="IMG/IMG/karolina-kolodziejczak-gRtIRzDNZQI-unsplash.jpg" width = 500 height = 500>
+
+|Lp. |Nazwa:                                               |porcja:  | 500 g | 700 g | 
+|----|-----------------------------------------------------|---------|-------|-------|
+|1.  |Carbonara                                            |         | 33 zł | 40 zł |
+|2.  |Bolonese                                             |         | 29 zł | 36 zł |
+|3.  |Tagiatele                                            |         | 31 zł | 39 zł |
+|4.  |Lasagne                                              |         | 35 zł | 43zł  |
+
 ## Dodatki
 
 ## Desery
