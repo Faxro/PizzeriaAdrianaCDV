@@ -55,6 +55,8 @@
 
 ## Desery
 
+<img src ="IMG/IMG/karly-gomez-lK1Q5RyD6tc-unsplash.jpg" width = 400 height = 350>
+
 |Lp. |Nazwa:                               | cena:| 
 |----|-------------------------------------|------|
 |1.  |Shake Czekoladowy/truskawkowy        | 10 zł|
